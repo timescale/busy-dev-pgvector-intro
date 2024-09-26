@@ -2,7 +2,7 @@
 Resources and code for the live session about building AI applications with PostgreSQL.
 
 ## Recording
-View the recording of the live session here [LINK TBD].
+View the recording of the live session [here](https://youtu.be/Ua6LDIOVN1s?si=C8G0MgkwZ9pc7769).
 
 ## Presentation Slides
 View and download the slides from the presentation [here](./busy_dev_pgvector_intro_slides.pdf).
